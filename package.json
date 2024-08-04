@@ -1,8 +1,4 @@
 {
   "name": "checkListAppBackEnd",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:Fernandotmk/CheckListAppBackEnd.git",
-  "author": "Fernandotmk <fernando.tmk@hotmail.com>",
-  "license": "MIT"
+  "packageManager": "yarn@4.4.0"
 }
